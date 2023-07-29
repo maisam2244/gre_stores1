@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:gre_stores/pages/FAQ_roots.dart/About_us.dart';
+import 'package:gre_stores/pages/FAQ_roots.dart/Contact_us.dart';
+import 'package:gre_stores/pages/FAQ_roots.dart/privact_policy.dart';
 import 'package:gre_stores/pages/Home_page.dart';
 import 'package:gre_stores/pages/faq_page.dart';
 import 'package:gre_stores/splash_Screen/splash_Screen.dart';

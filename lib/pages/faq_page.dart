@@ -28,7 +28,7 @@ class Faq extends StatelessWidget {
                     width: 110,
                     height: 110,
                     child: CircleAvatar(
-                      backgroundImage: AssetImage("assets/gre.jpg"),
+                      backgroundImage: AssetImage("assets/great.png"),
                     ),
                   )),
                   SizedBox(height: 30),
